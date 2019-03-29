@@ -1,0 +1,36 @@
+
+.navbar ul {
+  width: 1000px;
+  align-self: right;
+}
+
+.navbar li {
+  display: inline-block;
+  text-align: center;
+}
+
+.itemLeft {
+  width: 90%;
+}
+
+.itemCenter {
+  width: 0%;
+}
+
+.itemRight {
+  width: 10%;
+}
+
+.navbar {
+  background: #084247;
+  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+}
+
+li {
+  color: white;
+  padding: 5px 0;
+}
+
+body {
+  font-size: 20px;
+}
