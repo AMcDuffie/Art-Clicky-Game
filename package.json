@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "name": "artclickygame",
-=======
-  "name": "Art-Clicky-Game",
->>>>>>> 413e5518919442709a5a7e8cf4ca75fc9b56c55d
   "version": "0.1.0",
   "private": true,
   "dependencies": {

@@ -4,7 +4,7 @@ import Navbar from "./components/Navbar";
 import Jumbotron from "./components/Jumbotron";
 import ArtCard from "./components/ArtCard";
 import art from "./arts.json";
-// import "./App.css";
+import "./App.css";
 
 //sets state to 0 or empty
 class App extends Component {
